@@ -27,14 +27,12 @@ When I'm not diving deep into AI and data science:
 - Always exploring new investment opportunities and market trends
 
 ## 🌐 Connect With Me
-- 📧 [Email]jovana.r.aleksic@gmail.com
+- 📧 jovana.r.aleksic@gmail.com
 
 ## 🗣️ Languages
 - Serbian 
 - English 
 - Spanish 
 
----
-*"In the realm of AI and data, every challenge is an opportunity to innovate!"*
 
 
