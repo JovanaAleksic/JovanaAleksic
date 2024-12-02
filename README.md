@@ -27,8 +27,7 @@ When I'm not diving deep into AI and data science:
 - Always exploring new investment opportunities and market trends
 
 ## 🌐 Connect With Me
-- 📧 [Email](mailto:jovana.r.aleksic@gmail.com)
-- 🔗 [GitHub](https://github.com/JovanaAleksic)
+- 📧 [Email]jovana.r.aleksic@gmail.com
 
 ## 🗣️ Languages
 - Serbian 
