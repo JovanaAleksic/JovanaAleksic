@@ -14,11 +14,13 @@ I'm a Data Science / Machine Learning Researcher with a passion for solving comp
 - **Languages**: Python, C/C++
 - **ML/DL**: PyTorch, sklearn
 - **Data Analysis**: pandas, scipy, statsmodels
+- **Visualization**: matplotlib, seaborn
 - **HPC**: docker, singularity, slurm
 - **Other**: git, bash
 
 ## 🎓 Current Research
-Currently pursuing my PhD in Artificial Intelligence at Polytechnic University of Madrid, focusing on enhancment of neural networks accuracy in imbalanced domains. 
+As a PhD candidate in Artifical Intelligence at Polytechnic University of Madrid, my research focuses on improving neural network performance for imbalanced regression data. 
+In parallel, I serve as a Senior Data Analyst at Weill Cornell Medicine - Qatar's functional genomics lab, where I develop algorithms for processing data from AVAseq method.
 
 ## 🌟 Beyond The Code
 When I'm not diving deep into AI and data science:
