@@ -18,9 +18,6 @@ I'm a Data Science / Machine Learning Researcher with a passion for solving comp
 - **HPC**: docker, singularity, slurm
 - **Other**: git, bash
 
-## 🎓 Current Research
-As a PhD candidate in Artifical Intelligence at Polytechnic University of Madrid, my research focuses on improving neural network performance for imbalanced regression data. 
-In parallel, I serve as a Senior Data Analyst at Weill Cornell Medicine - Qatar's functional genomics lab, where I develop algorithms for processing data from AVAseq method.
 
 ## 🌟 Beyond The Code
 When I'm not diving deep into AI and data science:
